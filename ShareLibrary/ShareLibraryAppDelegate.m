@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+// add comment
+
 #import "ShareLibraryAppDelegate.h"
 
 @implementation ShareLibraryAppDelegate
